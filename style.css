@@ -1,0 +1,34 @@
+body{
+    font-family: 'Road Rage', cursive;
+    background-color: lightyellow;
+}
+
+.header_div{
+ background:mintcream;
+ color:blue;
+}
+
+.header_div p{
+    font-family: 'Yuji Mai', serif;
+    color:chocolate;
+    letter-spacing: 2px;
+}
+
+.main_div button{
+    width:130px;
+    color:crimson;
+    font-family: 'Noto Serif', serif;
+    border:1px;
+    border-color:darksalmon;
+    letter-spacing: 2px;
+}
+
+.copyright-footer{
+    text-shadow: 5px 5px 5px green;
+     font-size:25px;
+     font-family: 'Spectral SC', serif;
+     position:fixed;
+     bottom:0;
+     width: 100%;
+     background-color: salmon;
+}
